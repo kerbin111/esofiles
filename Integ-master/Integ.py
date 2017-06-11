@@ -1,4 +1,4 @@
-"""2017. By Joshua Fitzgerald; Unix/MacOS capability by Jimmy Thrasher.
+"""2017. By kerbin111; Unix/MacOS capability by Jimmy Thrasher.
 
 This program is the reference implementation of the Integ language, version 1.1.
 
